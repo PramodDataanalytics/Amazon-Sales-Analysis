@@ -1,6 +1,6 @@
 # Amazon-Sales-Analysis
 Amazon sales data analysis project using Python MySQL to analyze sales trends, product performance, and order cancellations.
-# Amazon Sales Analysis Using SQL
+# Amazon Sales Analysis Using SQL python power bi
 
 ## Project Overview
 This project analyzes Amazon India order data using MySQL to identify sales trends, product performance, customer order behavior, and order cancellation patterns.
