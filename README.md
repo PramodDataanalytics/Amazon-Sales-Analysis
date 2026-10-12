@@ -207,10 +207,35 @@ jupyter lab
 - Window Functions: "LAG()", "RANK()", "ROW_NUMBER()"
 - Business KPI and percentage calculations
 - Monthly trend and growth analysis
-- Product, geographic, and fulfilment analysis
-- Data quality validation and business recommendations
+- Product, geographic, and fulfilment an## Visualization
+- 
+## Visualizations
 
-## Visualization 
+### Sales Overview
+![Weekly and weekday sales](images/09_weekly_and_weekday_sales.png)
+![Orders and sales per category](images/02_category_orders_sales.png)
+![Orders per size](images/01_orders_per_size.png)
+
+### Order Status and Fulfilment
+![Order status share](images/03_order_status_share.png)
+![Fulfilment comparison](images/07_fulfilment_comparison.png)
+![Order distributions](images/04_order_distributions.png)
+
+### Customers and Geography
+![B2B vs B2C](images/08_b2b_vs_b2c.png)
+![Top states](images/10_top_states.png)
+![Top cities](images/11_top_cities.png)
+
+### Cancellations and Returns
+![Cancellation and return by state](images/13_cancel_return_by_state.png)
+![Cancellation and return by city](images/14_cancel_return_by_city.png)
+![Cancellation heatmap](images/15_cancel_heatmap_category_size.png)
+
+### Products and Other Checks
+![Top categories by quantity](images/05_top_categories_qty.png)
+![Top category-colour combinations](images/12_top_category_colour.png)
+![Amount distribution](images/16_amount_distribution.png)
+![Correlation heatmap](images/06_correlation_heatmap.png)
 
 - Cancellation reasons are not in the data, so the analysis shows **where** cancellations concentrate, not **why**.
 - B2B orders are usually a very small share of the data, so B2B vs B2C comparisons should be read with care.
